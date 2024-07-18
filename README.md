@@ -1,5 +1,7 @@
 # Portfólio de Ronaldo Fernandes
 
+# Link para acesso online ao projeto
+[Portifólio](https://ronaldodev42.github.io/Meu-portil-fio.github.io/).
 
 ## Descrição
 
